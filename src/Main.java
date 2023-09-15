@@ -54,7 +54,7 @@ public class Main
         double favoriteNumber = 4;
         double shoeSize = 9.5;
         int birthMonth = 6;
-        String name = "Joel";
+        String name = "JoelO";
 
     }
 }
